@@ -24,7 +24,7 @@
 | Louisa     | Reese         |                                          |
 | Michael    | DiGuiseppi    |                                          |
 | Mills      | McIlroy       |                                          |
-| Rachel     | Koldenhoven   |                                          |
+| Rachel     | Koldenhoven   | https://github.com/RachelKoldenhoven/g19-RKoldenhoven-Unit1-Project                                         |
 | Robert     | Gaines        |                                          |
 | Thomas     | Bealer        |                                          |
 | Todd       | Adelman       |                                          |
