@@ -3,7 +3,7 @@
 | First Name |   Last Name   | Proposal                                 |
 |:----------:|:-------------:|:----------------------------------------:|
 | Aaron      | Toys          |                                          |
-| Adam       | Poulsen       |                                          |
+| Adam       | Poulsen       |https://github.com/amp0024/G19-AdamPoulsen|
 | Andy       | Gross         |                                          |
 | Ben        | Hernandez     |                                          |
 | Caleb      | Pollman       |                                          |
