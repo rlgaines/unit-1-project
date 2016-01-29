@@ -5,7 +5,7 @@
 | Aaron      | Toys          |                                          |
 | Adam       | Poulsen       |                                          |
 | Andy       | Gross         |                                          |
-| Ben        | Hernandez     |                                          |
+| Ben        | Hernandez     |  https://github.com/BenAychh/Calculator-G19-BenHernandez |
 | Caleb      | Pollman       |                                          |
 | Daniel     | Klein         |                                          |
 | Danny      | Robinson      |                                          |
