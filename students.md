@@ -1,7 +1,7 @@
 # Projects!
 
 | First Name |   Last Name   | Proposal                                 |
-|:----------:|:-------------:|:----------------------------------------:|
+|------------|---------------|------------------------------------------|
 | Aaron      | Toys          |                                          |
 | Adam       | Poulsen       |https://github.com/amp0024/G19-AdamPoulsen|
 | Andy       | Gross         |                                          |
