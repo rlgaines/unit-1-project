@@ -26,7 +26,7 @@
 | Mills      | McIlroy       |                                          |
 | Rachel     | Koldenhoven   |                                          |
 | Robert     | Gaines        |                                          |
-| Thomas     | Bealer        |                                          |
+| Thomas     | Bealer        |https://github.com/tbealer/personalProject1.git|
 | Todd       | Adelman       |                                          |
 | Tyler      | Rozboril      |                                          |
 | Valerie    | Kraucunas     |                                          |
