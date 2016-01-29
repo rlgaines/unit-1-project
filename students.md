@@ -22,7 +22,7 @@
 | Kyle       | Maxwell       |                                          |
 | Lina       | Sachuk        |                                          |
 | Louisa     | Reese         |                                          |
-| Michael    | DiGuiseppi    |                                          |
+| Michael    | DiGuiseppi    | https://github.com/michaeldiguiseppi/front-end-personal-project|
 | Mills      | McIlroy       |                                          |
 | Rachel     | Koldenhoven   |                                          |
 | Robert     | Gaines        |                                          |
