@@ -4,7 +4,7 @@
 |------------|---------------|------------------------------------------|
 | Aaron      | Toys          |                                          |
 | Adam       | Poulsen       |https://github.com/amp0024/G19-AdamPoulsen|
-| Andy       | Gross         |                                          |
+| Andy       | Gross         | https://github.com/andogro/personal-project-1|
 | Ben        | Hernandez     | https://github.com/BenAychh/Calculator-G19-BenHernandez |
 | Caleb      | Pollman       | https://github.com/cpollman1/Personal-Project-One.git                                         |
 | Daniel     | Klein         | https://github.com/danhklein/godwin                                         |
