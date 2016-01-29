@@ -5,7 +5,7 @@
 | Aaron      | Toys          |                                          |
 | Adam       | Poulsen       |                                          |
 | Andy       | Gross         |                                          |
-| Ben        | Hernandez     |  https://github.com/BenAychh/Calculator-G19-BenHernandez |
+| Ben        | Hernandez     | https://github.com/BenAychh/Calculator-G19-BenHernandez |
 | Caleb      | Pollman       |                                          |
 | Daniel     | Klein         |                                          |
 | Danny      | Robinson      |https://github.com/djrobinson/campaign_finance|
@@ -29,4 +29,4 @@
 | Thomas     | Bealer        |https://github.com/tbealer/personalProject1.git|
 | Todd       | Adelman       |                                          |
 | Tyler      | Rozboril      |                                          |
-| Valerie    | Kraucunas     |                                          |
+| Valerie    | Kraucunas     | https://github.com/vkraucunas/dinkKitchen                                         |
