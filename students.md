@@ -16,7 +16,7 @@
 | James      | Volmert       |                                          |
 | Jon        | Hammond       |                                          |
 | Kathleen   | Dieser        |                                          |
-| Kaylyn     | Van Norstrand |                                          |
+| Kaylyn     | Van Norstrand |  https://github.com/KayTV/pokemon-app                                        |
 | Kevin      | Njeru         |                                          |
 | Klaus      | Sagehorn      |                                          |
 | Kyle       | Maxwell       |                                          |
