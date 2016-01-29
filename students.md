@@ -15,8 +15,8 @@
 | Garan      | Guillory      |                                          |
 | James      | Volmert       |                                          |
 | Jon        | Hammond       |                                          |
-| Kathleen   | Dieser        |                                          |
-| Kaylyn     | Van Norstrand |  https://github.com/KayTV/pokemon-app                                        |
+| Kathleen   | Dieser        | https://github.com/katdiese/sentences                                         |
+| Kaylyn     | Van Norstrand | https://github.com/KayTV/pokemon-app                                        |
 | Kevin      | Njeru         |                                          |
 | Klaus      | Sagehorn      |                                          |
 | Kyle       | Maxwell       |                                          |
