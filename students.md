@@ -7,7 +7,7 @@
 | Andy       | Gross         |                                          |
 | Ben        | Hernandez     | https://github.com/BenAychh/Calculator-G19-BenHernandez |
 | Caleb      | Pollman       | https://github.com/cpollman1/Personal-Project-One.git                                         |
-| Daniel     | Klein         |                                          |
+| Daniel     | Klein         | https://github.com/danhklein/godwin                                         |
 | Danny      | Robinson      |https://github.com/djrobinson/campaign_finance|
 | David      | Schwartz      |                                          |
 | David      | Sudia         | https://github.com/dsudia/G19-DavidSudia |
