@@ -11,7 +11,7 @@
 | Danny      | Robinson      |https://github.com/djrobinson/campaign_finance|
 | David      | Schwartz      |                                          |
 | David      | Sudia         | https://github.com/dsudia/G19-DavidSudia |
-| Dennis     | Bailey        |                                          |
+| Dennis     | Bailey        | https://github.com/dennisbailey/unit-1-personal-project/blob/master/proposal.md                                         |
 | Garan      | Guillory      |                                          |
 | James      | Volmert       |                                          |
 | Jon        | Hammond       |                                          |
