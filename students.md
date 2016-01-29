@@ -19,7 +19,7 @@
 | Kaylyn     | Van Norstrand |                                          |
 | Kevin      | Njeru         |                                          |
 | Klaus      | Sagehorn      |                                          |
-| Kyle       | Maxwell       |                                          |
+| Kyle       | Maxwell       | https://github.com/KyleJayMaxwell/local-Co                                         |
 | Lina       | Sachuk        |                                          |
 | Louisa     | Reese         |                                          |
 | Michael    | DiGuiseppi    |                                          |
