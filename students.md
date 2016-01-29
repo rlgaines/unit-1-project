@@ -24,7 +24,7 @@
 | Louisa     | Reese         |                                          |
 | Michael    | DiGuiseppi    | https://github.com/michaeldiguiseppi/front-end-personal-project|
 | Mills      | McIlroy       |                                          |
-| Rachel     | Koldenhoven   |                                          |
+| Rachel     | Koldenhoven   | https://github.com/RachelKoldenhoven/g19-RKoldenhoven-Unit1-Project                                         |
 | Robert     | Gaines        |                                          |
 | Thomas     | Bealer        |https://github.com/tbealer/personalProject1.git|
 | Todd       | Adelman       |                                          |
