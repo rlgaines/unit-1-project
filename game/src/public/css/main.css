@@ -1,0 +1,13 @@
+body{
+	background-color: black;
+}
+#gameCanvas{
+	position: absolute;
+	margin-left: 200px;
+	z-index: 2;
+}
+#field {
+	position: absolute;
+	left: 200px;
+	z-index: 1;
+}
