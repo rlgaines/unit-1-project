@@ -11,3 +11,16 @@ body{
 	left: 200px;
 	z-index: 1;
 }
+
+
+
+.box{
+	font-size: 50px;
+	color:white;
+}
+
+#goal{
+	font-size: 50px;
+	color:white;
+	left: 150px;
+}
